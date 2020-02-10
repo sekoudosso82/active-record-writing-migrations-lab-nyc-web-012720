@@ -17,7 +17,7 @@ ActiveRecord::Schema.define(version: 3) do
     t.string "genre"
     t.integer "age"
     t.integer "grade"
-    t.datetime "birthdare"
+    t.datetime "birthdate"
   end
 
 end
